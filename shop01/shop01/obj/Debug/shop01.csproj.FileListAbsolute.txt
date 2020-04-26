@@ -1,0 +1,10 @@
+C:\Users\AJR\source\repos\shop01\shop01\bin\Debug\shop01.exe.config
+C:\Users\AJR\source\repos\shop01\shop01\bin\Debug\shop01.exe
+C:\Users\AJR\source\repos\shop01\shop01\bin\Debug\shop01.pdb
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.csprojAssemblyReference.cache
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.Form1.resources
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.Form2.resources
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.Properties.Resources.resources
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.csproj.GenerateResource.cache
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.exe
+C:\Users\AJR\source\repos\shop01\shop01\obj\Debug\shop01.pdb

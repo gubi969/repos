@@ -1,0 +1,10 @@
+C:\Users\AJR\source\repos\牛b\牛b\bin\Debug\牛b.exe.config
+C:\Users\AJR\source\repos\牛b\牛b\bin\Debug\牛b.exe
+C:\Users\AJR\source\repos\牛b\牛b\bin\Debug\牛b.pdb
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.csprojAssemblyReference.cache
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.Form1.resources
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.Properties.Resources.resources
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.csproj.GenerateResource.cache
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.exe
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.pdb
+C:\Users\AJR\source\repos\牛b\牛b\obj\Debug\牛b.csproj.CoreCompileInputs.cache

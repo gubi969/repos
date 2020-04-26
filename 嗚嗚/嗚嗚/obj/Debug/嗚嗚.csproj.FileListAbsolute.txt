@@ -1,0 +1,7 @@
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\bin\Debug\嗚嗚.exe.config
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\bin\Debug\嗚嗚.exe
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\bin\Debug\嗚嗚.pdb
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\obj\Debug\嗚嗚.csprojAssemblyReference.cache
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\obj\Debug\嗚嗚.csproj.CoreCompileInputs.cache
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\obj\Debug\嗚嗚.exe
+C:\Users\AJR\source\repos\嗚嗚\嗚嗚\obj\Debug\嗚嗚.pdb

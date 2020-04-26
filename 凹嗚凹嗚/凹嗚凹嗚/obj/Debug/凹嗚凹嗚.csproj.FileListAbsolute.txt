@@ -1,0 +1,10 @@
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\bin\Debug\凹嗚凹嗚.exe.config
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\bin\Debug\凹嗚凹嗚.exe
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\bin\Debug\凹嗚凹嗚.pdb
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.csprojAssemblyReference.cache
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.Form1.resources
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.Properties.Resources.resources
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.csproj.GenerateResource.cache
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.csproj.CoreCompileInputs.cache
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.exe
+C:\Users\AJR\source\repos\凹嗚凹嗚\凹嗚凹嗚\obj\Debug\凹嗚凹嗚.pdb
